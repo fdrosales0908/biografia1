@@ -1,0 +1,77 @@
+---
+title: "Francesca Danae Rosales Rojas"
+image: "captura.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/francesca-danae-rosales-rojas-314457b6/"
+  - label: GitHub
+    url: "https://github.com/fdrosales0908?tab=repositories"
+  - label: Email
+    url: "mailto:fdrosales@uc.cl"
+output:
+  postcards::trestles
+---
+ 
+## Perfil profesional
+
+Cientista política con amplia experiencia en el procesamiento, análisis y reportería de información. Me interesan los cambios que se están produciendo en la era digital, tanto en las relaciones humanas como en las nuevas formas de productividad. 
+Soy una profesional muy adaptable y abierta a los desafíos. Me interesa estar en espacios que me hacen sentido y no tengo miedo a los cambios. 
+Estoy en constante formación, ya que el mundo avanza muy rápido y mi objetivo es siempre estar a la vanguardia.
+Mi meta es ser una nómada digital, aportar a la comprensión de las nuevas transformaciones y la adopción de tecnologías pertinentes a cada organización. 
+
+## Experiencia laboral
+
+**EOL Research** | Jefa de Proyectos | Febrero 2022 - Present
+
+**Fondo de Solidaridad e Inversión Social-FOSIS** | Analista de Estudios | Junio 2021 - Febrero 2022
+
+**Ministerio de Vivienda y Urbanismo** | Analista Unidad de Control y Gestión | Reemplazo Enero 2021 - Junio 2021
+
+**Universidad de Chile** | Coordinadora de Análisis de Datos y Analista de Observatorio de Género | Abril 2019 - Enero 2021
+
+**Servicio Nacional de la Mujer y Equidad de Género** | Gestora de programas | Diciembre 2017 - Diciembre 2018
+
+**Ministerio Secretaria General de la Presidencia** | Analista de Estudios | Enero 2016 - Diciembre 2018
+
+
+## Educación
+
+**Pontificia Universidad Católica de Chile** 
+
+Cientista Política | 2011 - 2015
+
+**Universidad Diego Portales** 
+
+Magíster en Políticas Públicas | 2018-2020
+***Beca Conicyt***
+
+**Universidad Diego Portales** 
+
+Estudiante de Magíster en Pensamiento Contemporáneo | 2021-2022
+***Beca Excelencia Académica IFF***
+
+## Habilidades y conocimientos
+
+***- Rstudio avanzado***
+
+***- Manejo básico de SPSS y Python***
+
+***- HTML5, CSS Y BOOTSTRAP***
+
+***- Power bi***
+
+***- Inglés B2 y Alemán básico***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
