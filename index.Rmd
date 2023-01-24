@@ -1,5 +1,5 @@
 ---
-title: "Francesca Danae Rosales Rojas"
+title: "Francesca Rosales Rojas"
 image: "captura.jpg"
 links:
   - label: LinkedIn
@@ -70,17 +70,3 @@ Diploma in Public Sector Administration
 ***- B2 EF SET Certificate TM***
 
 ***- MOS en Microsoft Office Excel 2016 Core***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
